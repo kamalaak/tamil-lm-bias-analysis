@@ -21,7 +21,7 @@ Comprehensive analysis of social biases in Tamil language models across:
 ## Quick Start
 
 ```bash
-git clone https://github.com/yourusername/tamil-lm-bias-analysis.git
+git clone https://github.com/tamil-lm-bias-analysis/tamil-lm-bias-analysis.git
 cd tamil-lm-bias-analysis
 pip install -r requirements.txt
 
